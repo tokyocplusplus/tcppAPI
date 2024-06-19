@@ -24,19 +24,20 @@ int main()
 
 #include<stdio.h>
 
-int main(void)
+int main(int argc, char* argv[])
 {
     printf("Hello!! I'm a graphics programmer and this is my github page!";
 
     return 0;
 }
 ```
+
 ```GLSL
 #version 450 core
 
 void main()
 {
-    string print = "Hello!! I'm a graphics programmer and this my github page!";
+    DrawString("Hello!! I'm a graphics programmer and this my github page!");
 }
 ```
 

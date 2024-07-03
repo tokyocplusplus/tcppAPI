@@ -1,0 +1,1 @@
+- added a .ppm file (ASCII stuff)

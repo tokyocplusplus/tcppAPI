@@ -1,0 +1,1 @@
+damn this is becoming a massive pain in the ass, this one handles mouse input and keyboard input, it's kinda cool and stuff and horrible but it's still progress.

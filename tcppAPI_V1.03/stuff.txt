@@ -1,0 +1,301 @@
+every single API isnt optimized enough and doesnt even support all platforms, ts sucks. im just using raylib honestly. Raylib is just perfect in every way when compared to
+other stuff and i can optimize it myself instead of having to modify the stupid api like I had to with OpenGL to add occlusion culling in properly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me
+kill me

@@ -17,3 +17,7 @@ no that isn't a speck on your screen, that is my first pixel! (for the millionth
 ![Capture](https://github.com/user-attachments/assets/8d3c4765-34c8-47e4-8346-5f427b6b01d4)
 the feeling of power at 300 FPS
 ![Capture](https://github.com/user-attachments/assets/101c7e48-b4d3-496b-8be5-24f56cf16888)
+
+uh this is working now apparently
+![test](https://github.com/user-attachments/assets/fec9462c-893b-4126-8608-da977580e4a9)
+also i like pink its a nice color

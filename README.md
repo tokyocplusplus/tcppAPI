@@ -21,3 +21,6 @@ the feeling of power at 300 FPS
 uh this is working now apparently
 ![test](https://github.com/user-attachments/assets/fec9462c-893b-4126-8608-da977580e4a9)
 also i like pink its a nice color
+
+
+# successfully sorta done im not doing any more than this lol

@@ -24,3 +24,5 @@ also i like pink its a nice color
 
 
 # successfully sorta done im not doing any more than this lol
+
+# EDIT: nevermind im working on it again im into shaders

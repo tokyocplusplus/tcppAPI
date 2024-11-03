@@ -1,6 +1,0 @@
-this is for a massive project lol
-
-while (1==1)
-{
-  std::cout << "hi!!";
-}

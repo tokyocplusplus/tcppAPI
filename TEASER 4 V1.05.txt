@@ -1,3 +1,5 @@
 okay so I did a little optmization and instancing and all that.. I can render exactly a billion cubes at 20FPS on an Intel Pentium silver N5030 with integrated graphics. if you have a graphics hard more powerful than that then it should be able to run at around 60FPS
 
 enjoy the large amount of cubes that doesn't even fit on the screen.
+
+I'm also working more on the API side of things and getting that working

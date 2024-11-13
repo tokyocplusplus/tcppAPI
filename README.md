@@ -6,7 +6,7 @@ i've created a program that creates a pixel and it runs just well on linux, macO
 
 I'm making a triangle now and porting my API to OpenGL
 
-### huh? this is working really well porting it to OpenGL
+### huh? this is working really well porting it to OpenGL (opengl sucks please dont use it)
 I've got a camera working now and my code is super duper good (it's only running at 400 FPS average)
 
 ### stress testing is getting good.
@@ -28,3 +28,4 @@ also i like pink its a nice color
 # EDIT: nevermind im working on it again im into shaders
 
 ### 1,000,000,000 CUBES VERSION COMING OUT SOON AT 60 FPS ON AN RX 570
+RAYLIB VER WILL BE AVAILABLE SOON

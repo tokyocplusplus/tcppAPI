@@ -1,0 +1,52 @@
+//tokyocplusplus
+#include <SDL.h>
+#include<stdio.h>
+
+int main(int argc, char* argv[]) {
+    // Initialize SDL
+    SDL_Rect rect = {
+        .x = 640 / 2,
+        .y = 480 / 2,
+        .w = 20,
+        .h = 20
+    };
+
+    if (SDL_Init(SDL_INIT_VIDEO) < 0) {
+        fprintf(stderr, "Could not initialize SDL: %s\n", SDL_GetError());
+        return 1;
+    }
+
+    // Create a window and renderer
+    SDL_Window* window = SDL_CreateWindow("tcppPixel", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, 640, 480, 0);
+    SDL_Renderer* renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+
+    // Set the draw color to red
+    SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
+
+    // Draw a pixel at (100, 100)
+    SDL_RenderDrawRect(renderer, &rect);
+
+    // Present the rendered frame
+    SDL_RenderPresent(renderer);
+
+    // Wait for a keypress
+    SDL_Event event;
+    while (SDL_WaitEvent(&event)) {
+        if (event.type == SDL_QUIT) {
+            break;
+        }
+
+        if (event.type == SDL_KEYDOWN) {
+            if (event.key.keysym.sym == SDLK_ESCAPE) {
+                break;
+            }
+        }
+    }
+
+    // Clean up
+    SDL_DestroyRenderer(renderer);
+    SDL_DestroyWindow(window);
+    SDL_Quit();
+
+    return 0;
+}

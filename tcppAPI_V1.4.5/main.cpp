@@ -5,7 +5,7 @@ int main() {
     InitWindow(800, 600, "raylib Shaders Example");
 
     // Load the shader
-    Shader shader = LoadShader(NULL, "simple.fs");
+    Shader shader = LoadShader(NULL, "frag.glsl");
 
     // Get the location of the "time" uniform
     int timeLoc = GetShaderLocation(shader, "time");
